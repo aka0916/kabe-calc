@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aka0916.github.io/kabe-calc/sitemap.xml
